@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\bin\Debug\net6.0\Example004_Dif.exe
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\bin\Debug\net6.0\Example004_Dif.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\bin\Debug\net6.0\Example004_Dif.runtimeconfig.json
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\bin\Debug\net6.0\Example004_Dif.dll
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\bin\Debug\net6.0\Example004_Dif.pdb
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\obj\Debug\net6.0\Example004_Dif.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\obj\Debug\net6.0\Example004_Dif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\obj\Debug\net6.0\Example004_Dif.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\obj\Debug\net6.0\Example004_Dif.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\obj\Debug\net6.0\Example004_Dif.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\obj\Debug\net6.0\Example004_Dif.dll
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\obj\Debug\net6.0\refint\Example004_Dif.dll
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\obj\Debug\net6.0\Example004_Dif.pdb
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\obj\Debug\net6.0\Example004_Dif.genruntimeconfig.cache
+C:\Users\user\OneDrive\Рабочий стол\Examples\Example001_HelloConsole\Example004_Dif\obj\Debug\net6.0\ref\Example004_Dif.dll
